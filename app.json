@@ -1,0 +1,5 @@
+{
+    "name": "peerflix-server",
+    "repository": "https://github.com/asapach/peerflix-server",
+    "generator": "https://www.expeditedssl.com/heroku-button-maker"
+}
